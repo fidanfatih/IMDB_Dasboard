@@ -1,4 +1,4 @@
-# IMDB_Dasboard_Project
+# IMDB_Dashboard_Project
 
 In this project, a dashboard was created using the data obtained from the [IMDB]( https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating) site. The project consists of 4 parts.
 1. The dataset has been scraped from the IMDB site. (Selenium)
